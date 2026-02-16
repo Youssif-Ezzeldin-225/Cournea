@@ -1,0 +1,31 @@
+.navbar{
+    width:100%;
+    background-color: #a8a4a4;
+    overflow: auto;
+}
+.navbar a{
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+}
+.navbar a:hover {
+  background-color: #ff0000;
+}
+
+.active {
+  background-color: #0e0b3b;}
+
+body{
+    background-color: #2c2929;
+    font-family: 'Cairo', 'Inter', sans-serif;
+    font-size: large;
+}
+.tab{
+    background-color: rgb(173, 166, 157);
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
